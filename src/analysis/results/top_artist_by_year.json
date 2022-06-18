@@ -1,0 +1,194 @@
+{"index": {"_id": 0, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "BIGBANG", "type": "그룹", "year": 2011, "score": 1729, "gender": "남성"}
+{"index": {"_id": 1, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "리쌍", "type": "그룹", "year": 2011, "score": 1559, "gender": "남성"}
+{"index": {"_id": 2, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "아이유", "type": "솔로", "year": 2011, "score": 1557, "gender": "여성"}
+{"index": {"_id": 3, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "김범수", "type": "솔로", "year": 2011, "score": 1431, "gender": "남성"}
+{"index": {"_id": 4, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "2NE1", "type": "그룹", "year": 2011, "score": 1286, "gender": "여성"}
+{"index": {"_id": 5, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "버스커 버스커", "type": "그룹", "year": 2011, "score": 1206, "gender": "남성"}
+{"index": {"_id": 6, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "울랄라세션", "type": "그룹", "year": 2011, "score": 1166, "gender": "남성"}
+{"index": {"_id": 7, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "박정현", "type": "솔로", "year": 2011, "score": 1040, "gender": "여성"}
+{"index": {"_id": 8, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "비스트", "type": "그룹", "year": 2011, "score": 844, "gender": "남성"}
+{"index": {"_id": 9, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "먼데이 키즈 (Monday Kiz)", "type": "솔로", "year": 2011, "score": 757, "gender": "남성"}
+{"index": {"_id": 10, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "버스커 버스커", "type": "그룹", "year": 2012, "score": 4026, "gender": "남성"}
+{"index": {"_id": 11, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "BIGBANG", "type": "그룹", "year": 2012, "score": 2438, "gender": "남성"}
+{"index": {"_id": 12, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "싸이 (PSY)", "type": "솔로", "year": 2012, "score": 1631, "gender": "남성"}
+{"index": {"_id": 13, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "허각", "type": "솔로", "year": 2012, "score": 1615, "gender": "남성"}
+{"index": {"_id": 14, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "아이유", "type": "솔로", "year": 2012, "score": 1403, "gender": "여성"}
+{"index": {"_id": 15, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "G-DRAGON", "type": "솔로", "year": 2012, "score": 1269, "gender": "남성"}
+{"index": {"_id": 16, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "티아라", "type": "그룹", "year": 2012, "score": 1239, "gender": "여성"}
+{"index": {"_id": 17, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "씨스타", "type": "그룹", "year": 2012, "score": 1049, "gender": "여성"}
+{"index": {"_id": 18, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "케이윌", "type": "솔로", "year": 2012, "score": 949, "gender": "남성"}
+{"index": {"_id": 19, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "비스트", "type": "그룹", "year": 2012, "score": 896, "gender": "남성"}
+{"index": {"_id": 20, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "버스커 버스커", "type": "그룹", "year": 2013, "score": 2336, "gender": "남성"}
+{"index": {"_id": 21, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "프라이머리", "type": "솔로", "year": 2013, "score": 1672, "gender": "남성"}
+{"index": {"_id": 22, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "다비치", "type": "그룹", "year": 2013, "score": 1627, "gender": "여성"}
+{"index": {"_id": 23, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "AKMU (악동뮤지션)", "type": "그룹", "year": 2013, "score": 1575, "gender": "혼성"}
+{"index": {"_id": 24, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "긱스 (Geeks)", "type": "그룹", "year": 2013, "score": 1568, "gender": "남성"}
+{"index": {"_id": 25, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "허각", "type": "솔로", "year": 2013, "score": 1492, "gender": "남성"}
+{"index": {"_id": 26, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "G-DRAGON", "type": "솔로", "year": 2013, "score": 1299, "gender": "남성"}
+{"index": {"_id": 27, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "다이나믹 듀오", "type": "그룹", "year": 2013, "score": 1170, "gender": "남성"}
+{"index": {"_id": 28, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "케이윌", "type": "솔로", "year": 2013, "score": 1102, "gender": "남성"}
+{"index": {"_id": 29, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "씨스타", "type": "그룹", "year": 2013, "score": 1088, "gender": "여성"}
+{"index": {"_id": 30, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "아이유", "type": "솔로", "year": 2014, "score": 2599, "gender": "여성"}
+{"index": {"_id": 31, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "2NE1", "type": "그룹", "year": 2014, "score": 1938, "gender": "여성"}
+{"index": {"_id": 32, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "AKMU (악동뮤지션)", "type": "그룹", "year": 2014, "score": 1815, "gender": "혼성"}
+{"index": {"_id": 33, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "MC몽", "type": "솔로", "year": 2014, "score": 1628, "gender": "남성"}
+{"index": {"_id": 34, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "엠씨더맥스 (M.C the MAX)", "type": "그룹", "year": 2014, "score": 1341, "gender": "남성"}
+{"index": {"_id": 35, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "소유 (SOYOU)", "type": "솔로", "year": 2014, "score": 1314, "gender": "여성"}
+{"index": {"_id": 36, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "San E", "type": "솔로", "year": 2014, "score": 1101, "gender": "남성"}
+{"index": {"_id": 37, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "WINNER", "type": "그룹", "year": 2014, "score": 1100, "gender": "남성"}
+{"index": {"_id": 38, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "에픽하이 (EPIK HIGH)", "type": "그룹", "year": 2014, "score": 1088, "gender": "남성"}
+{"index": {"_id": 39, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "AOA", "type": "그룹", "year": 2014, "score": 1038, "gender": "여성"}
+{"index": {"_id": 40, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "BIGBANG", "type": "그룹", "year": 2015, "score": 2825, "gender": "남성"}
+{"index": {"_id": 41, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "아이유", "type": "솔로", "year": 2015, "score": 2561, "gender": "여성"}
+{"index": {"_id": 42, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "Zion.T", "type": "솔로", "year": 2015, "score": 1936, "gender": "남성"}
+{"index": {"_id": 43, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "EXO", "type": "그룹", "year": 2015, "score": 1625, "gender": "남성"}
+{"index": {"_id": 44, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "EXID", "type": "그룹", "year": 2015, "score": 1211, "gender": "여성"}
+{"index": {"_id": 45, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "San E", "type": "솔로", "year": 2015, "score": 1195, "gender": "남성"}
+{"index": {"_id": 46, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "다비치", "type": "그룹", "year": 2015, "score": 1194, "gender": "여성"}
+{"index": {"_id": 47, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "MC몽", "type": "솔로", "year": 2015, "score": 1165, "gender": "남성"}
+{"index": {"_id": 48, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "혁오 (HYUKOH)", "type": "그룹", "year": 2015, "score": 1098, "gender": "남성"}
+{"index": {"_id": 49, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "지코 (ZICO)", "type": "솔로", "year": 2015, "score": 980, "gender": "남성"}
+{"index": {"_id": 50, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "지코 (ZICO)", "type": "솔로", "year": 2016, "score": 2346, "gender": "남성"}
+{"index": {"_id": 51, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "EXO", "type": "그룹", "year": 2016, "score": 2096, "gender": "남성"}
+{"index": {"_id": 52, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "TWICE (트와이스)", "type": "그룹", "year": 2016, "score": 1807, "gender": "여성"}
+{"index": {"_id": 53, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "여자친구 (GFRIEND)", "type": "그룹", "year": 2016, "score": 1794, "gender": "여성"}
+{"index": {"_id": 54, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "Crush", "type": "솔로", "year": 2016, "score": 1595, "gender": "남성"}
+{"index": {"_id": 55, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "태연 (TAEYEON)", "type": "솔로", "year": 2016, "score": 1455, "gender": "여성"}
+{"index": {"_id": 56, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "마마무 (Mamamoo)", "type": "그룹", "year": 2016, "score": 1444, "gender": "여성"}
+{"index": {"_id": 57, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "BewhY (비와이)", "type": "솔로", "year": 2016, "score": 1425, "gender": "남성"}
+{"index": {"_id": 58, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "방탄소년단", "type": "그룹", "year": 2016, "score": 1348, "gender": "남성"}
+{"index": {"_id": 59, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "볼빨간사춘기", "type": "솔로", "year": 2016, "score": 1267, "gender": "여성"}
+{"index": {"_id": 60, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "볼빨간사춘기", "type": "솔로", "year": 2017, "score": 5112, "gender": "여성"}
+{"index": {"_id": 61, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "아이유", "type": "솔로", "year": 2017, "score": 3593, "gender": "여성"}
+{"index": {"_id": 62, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "방탄소년단", "type": "그룹", "year": 2017, "score": 2383, "gender": "남성"}
+{"index": {"_id": 63, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "헤이즈 (Heize)", "type": "솔로", "year": 2017, "score": 2106, "gender": "여성"}
+{"index": {"_id": 64, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "TWICE (트와이스)", "type": "그룹", "year": 2017, "score": 2064, "gender": "여성"}
+{"index": {"_id": 65, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "Wanna One (워너원)", "type": "그룹", "year": 2017, "score": 1349, "gender": "남성"}
+{"index": {"_id": 66, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "한동근", "type": "솔로", "year": 2017, "score": 1334, "gender": "남성"}
+{"index": {"_id": 67, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "Red Velvet (레드벨벳)", "type": "그룹", "year": 2017, "score": 1325, "gender": "여성"}
+{"index": {"_id": 68, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "BLACKPINK", "type": "그룹", "year": 2017, "score": 1275, "gender": "여성"}
+{"index": {"_id": 69, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "EXO", "type": "그룹", "year": 2017, "score": 1177, "gender": "남성"}
+{"index": {"_id": 70, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "방탄소년단", "type": "그룹", "year": 2018, "score": 5553, "gender": "남성"}
+{"index": {"_id": 71, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "Wanna One (워너원)", "type": "그룹", "year": 2018, "score": 2586, "gender": "남성"}
+{"index": {"_id": 72, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "멜로망스", "type": "그룹", "year": 2018, "score": 2545, "gender": "남성"}
+{"index": {"_id": 73, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "TWICE (트와이스)", "type": "그룹", "year": 2018, "score": 2030, "gender": "여성"}
+{"index": {"_id": 74, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "EXO", "type": "그룹", "year": 2018, "score": 1837, "gender": "남성"}
+{"index": {"_id": 75, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "볼빨간사춘기", "type": "솔로", "year": 2018, "score": 1754, "gender": "여성"}
+{"index": {"_id": 76, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "폴킴", "type": "솔로", "year": 2018, "score": 1497, "gender": "남성"}
+{"index": {"_id": 77, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "Red Velvet (레드벨벳)", "type": "그룹", "year": 2018, "score": 1494, "gender": "여성"}
+{"index": {"_id": 78, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "BLACKPINK", "type": "그룹", "year": 2018, "score": 1452, "gender": "여성"}
+{"index": {"_id": 79, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "비투비", "type": "그룹", "year": 2018, "score": 1399, "gender": "남성"}
+{"index": {"_id": 80, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "방탄소년단", "type": "그룹", "year": 2019, "score": 3806, "gender": "남성"}
+{"index": {"_id": 81, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "폴킴", "type": "솔로", "year": 2019, "score": 3612, "gender": "남성"}
+{"index": {"_id": 82, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "벤", "type": "솔로", "year": 2019, "score": 1544, "gender": "여성"}
+{"index": {"_id": 83, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "볼빨간사춘기", "type": "솔로", "year": 2019, "score": 1537, "gender": "여성"}
+{"index": {"_id": 84, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "태연 (TAEYEON)", "type": "솔로", "year": 2019, "score": 1522, "gender": "여성"}
+{"index": {"_id": 85, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "장범준", "type": "솔로", "year": 2019, "score": 1456, "gender": "남성"}
+{"index": {"_id": 86, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "케이시 (Kassy)", "type": "솔로", "year": 2019, "score": 1443, "gender": "여성"}
+{"index": {"_id": 87, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "TWICE (트와이스)", "type": "그룹", "year": 2019, "score": 1428, "gender": "여성"}
+{"index": {"_id": 88, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "엠씨더맥스 (M.C the MAX)", "type": "그룹", "year": 2019, "score": 1390, "gender": "남성"}
+{"index": {"_id": 89, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "아이유", "type": "솔로", "year": 2019, "score": 1388, "gender": "여성"}
+{"index": {"_id": 90, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "방탄소년단", "type": "그룹", "year": 2020, "score": 6699, "gender": "남성"}
+{"index": {"_id": 91, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "아이유", "type": "솔로", "year": 2020, "score": 3776, "gender": "여성"}
+{"index": {"_id": 92, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "폴킴", "type": "솔로", "year": 2020, "score": 2653, "gender": "남성"}
+{"index": {"_id": 93, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "창모 (CHANGMO)", "type": "솔로", "year": 2020, "score": 1475, "gender": "남성"}
+{"index": {"_id": 94, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "마크툽 (MAKTUB)", "type": "솔로", "year": 2020, "score": 1382, "gender": "남성"}
+{"index": {"_id": 95, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "지코 (ZICO)", "type": "솔로", "year": 2020, "score": 1322, "gender": "남성"}
+{"index": {"_id": 96, "_type": "t_a_b_y", "_index": "top_artist_by_year"}}
+{"artist": "오마이걸 (OH MY GIRL)", "type": "그룹", "year"

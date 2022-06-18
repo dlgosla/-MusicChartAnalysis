@@ -1,0 +1,102 @@
+{"index": {"_id": 0, "_type": "a_b_y", "_index": "artist_by_year"}}
+{"type": "그룹", "avg(score)": 307.275, "gender": "여성", "year": 2011}
+{"index": {"_id": 1, "_type": "a_b_y", "_index": "artist_by_year"}}
+{"type": "그룹", "avg(score)": 303.6981132075472, "gender": "남성", "year": 2011}
+{"index": {"_id": 2, "_type": "a_b_y", "_index": "artist_by_year"}}
+{"type": "솔로", "avg(score)": 179.0677966101695, "gender": "여성", "year": 2011}
+{"index": {"_id": 3, "_type": "a_b_y", "_index": "artist_by_year"}}
+{"type": "그룹", "avg(score)": 171.1, "gender": "혼성", "year": 2011}
+{"index": {"_id": 4, "_type": "a_b_y", "_index": "artist_by_year"}}
+{"type": "솔로", "avg(score)": 145.35227272727272, "gender": "남성", "year": 2011}
+{"index": {"_id": 5, "_type": "a_b_y", "_index": "artist_by_year"}}
+{"type": "그룹", "avg(score)": 319.5, "gender": "남성", "year": 2012}
+{"index": {"_id": 6, "_type": "a_b_y", "_index": "artist_by_year"}}
+{"type": "그룹", "avg(score)": 262.74418604651163, "gender": "여성", "year": 2012}
+{"index": {"_id": 7, "_type": "a_b_y", "_index": "artist_by_year"}}
+{"type": "그룹", "avg(score)": 249.57142857142858, "gender": "혼성", "year": 2012}
+{"index": {"_id": 8, "_type": "a_b_y", "_index": "artist_by_year"}}
+{"type": "솔로", "avg(score)": 197.6346153846154, "gender": "여성", "year": 2012}
+{"index": {"_id": 9, "_type": "a_b_y", "_index": "artist_by_year"}}
+{"type": "솔로", "avg(score)": 194.62637362637363, "gender": "남성", "year": 2012}
+{"index": {"_id": 10, "_type": "a_b_y", "_index": "artist_by_year"}}
+{"type": "그룹", "avg(score)": 305.7837837837838, "gender": "여성", "year": 2013}
+{"index": {"_id": 11, "_type": "a_b_y", "_index": "artist_by_year"}}
+{"type": "그룹", "avg(score)": 256.2295081967213, "gender": "남성", "year": 2013}
+{"index": {"_id": 12, "_type": "a_b_y", "_index": "artist_by_year"}}
+{"type": "그룹", "avg(score)": 253.6, "gender": "혼성", "year": 2013}
+{"index": {"_id": 13, "_type": "a_b_y", "_index": "artist_by_year"}}
+{"type": "솔로", "avg(score)": 226.51724137931035, "gender": "남성", "year": 2013}
+{"index": {"_id": 14, "_type": "a_b_y", "_index": "artist_by_year"}}
+{"type": "솔로", "avg(score)": 186.64912280701753, "gender": "여성", "year": 2013}
+{"index": {"_id": 15, "_type": "a_b_y", "_index": "artist_by_year"}}
+{"type": "그룹", "avg(score)": 338.7142857142857, "gender": "혼성", "year": 2014}
+{"index": {"_id": 16, "_type": "a_b_y", "_index": "artist_by_year"}}
+{"type": "그룹", "avg(score)": 297.6470588235294, "gender": "여성", "year": 2014}
+{"index": {"_id": 17, "_type": "a_b_y", "_index": "artist_by_year"}}
+{"type": "솔로", "avg(score)": 263.08045977011494, "gender": "남성", "year": 2014}
+{"index": {"_id": 18, "_type": "a_b_y", "_index": "artist_by_year"}}
+{"type": "그룹", "avg(score)": 261.2352941176471, "gender": "남성", "year": 2014}
+{"index": {"_id": 19, "_type": "a_b_y", "_index": "artist_by_year"}}
+{"type": "솔로", "avg(score)": 248.77777777777777, "gender": "여성", "year": 2014}
+{"index": {"_id": 20, "_type": "a_b_y", "_index": "artist_by_year"}}
+{"type": "여성", "avg(score)": 54.0, "gender": "솔로", "year": 2014}
+{"index": {"_id": 21, "_type": "a_b_y", "_index": "artist_by_year"}}
+{"type": "그룹", "avg(score)": 344.2857142857143, "gender": "여성", "year": 2015}
+{"index": {"_id": 22, "_type": "a_b_y", "_index": "artist_by_year"}}
+{"type": "그룹", "avg(score)": 296.2307692307692, "gender": "남성", "year": 2015}
+{"index": {"_id": 23, "_type": "a_b_y", "_index": "artist_by_year"}}
+{"type": "솔로", "avg(score)": 260.1034482758621, "gender": "남성", "year": 2015}
+{"index": {"_id": 24, "_type": "a_b_y", "_index": "artist_by_year"}}
+{"type": "솔로", "avg(score)": 217.3469387755102, "gender": "여성", "year": 2015}
+{"index": {"_id": 25, "_type": "a_b_y", "_index": "artist_by_year"}}
+{"type": "그룹", "avg(score)": 205.33333333333334, "gender": "혼성", "year": 2015}
+{"index": {"_id": 26, "_type": "a_b_y", "_index": "artist_by_year"}}
+{"type": "그룹", "avg(score)": 571.6666666666666, "gender": "혼성", "year": 2016}
+{"index": {"_id": 27, "_type": "a_b_y", "_index": "artist_by_year"}}
+{"type": "그룹", "avg(score)": 459.52, "gender": "여성", "year": 2016}
+{"index": {"_id": 28, "_type": "a_b_y", "_index": "artist_by_year"}}
+{"type": "솔로", "avg(score)": 307.39285714285717, "gender": "남성", "year": 2016}
+{"index": {"_id": 29, "_type": "a_b_y", "_index": "artist_by_year"}}
+{"type": "그룹", "avg(score)": 281.6842105263158, "gender": "남성", "year": 2016}
+{"index": {"_id": 30, "_type": "a_b_y", "_index": "artist_by_year"}}
+{"type": "솔로", "avg(score)": 243.11904761904762, "gender": "여성", "year": 2016}
+{"index": {"_id": 31, "_type": "a_b_y", "_index": "artist_by_year"}}
+{"type": "그룹", "avg(score)": 744.0, "gender": "혼성", "year": 2017}
+{"index": {"_id": 32, "_type": "a_b_y", "_index": "artist_by_year"}}
+{"type": "솔로", "avg(score)": 549.1935483870968, "gender": "여성", "year": 2017}
+{"index": {"_id": 33, "_type": "a_b_y", "_index": "artist_by_year"}}
+{"type": "그룹", "avg(score)": 474.05882352941177, "gender": "여성", "year": 2017}
+{"index": {"_id": 34, "_type": "a_b_y", "_index": "artist_by_year"}}
+{"type": "그룹", "avg(score)": 391.7567567567568, "gender": "남성", "year": 2017}
+{"index": {"_id": 35, "_type": "a_b_y", "_index": "artist_by_year"}}
+{"type": "솔로", "avg(score)": 263.8169014084507, "gender": "남성", "year": 2017}
+{"index": {"_id": 36, "_type": "a_b_y", "_index": "artist_by_year"}}
+{"type": "그룹", "avg(score)": 662.6666666666666, "gender": "여성", "year": 2018}
+{"index": {"_id": 37, "_type": "a_b_y", "_index": "artist_by_year"}}
+{"type": "그룹", "avg(score)": 577.7567567567568, "gender": "남성", "year": 2018}
+{"index": {"_id": 38, "_type": "a_b_y", "_index": "artist_by_year"}}
+{"type": "솔로", "avg(score)": 378.52, "gender": "여성", "year": 2018}
+{"index": {"_id": 39, "_type": "a_b_y", "_index": "artist_by_year"}}
+{"type": "솔로", "avg(score)": 354.56363636363636, "gender": "남성", "year": 2018}
+{"index": {"_id": 40, "_type": "a_b_y", "_index": "artist_by_year"}}
+{"type": "그룹", "avg(score)": 250.0, "gender": "혼성", "year": 2018}
+{"index": {"_id": 41, "_type": "a_b_y", "_index": "artist_by_year"}}
+{"type": "솔로", "avg(score)": 457.825, "gender": "여성", "year": 2019}
+{"index": {"_id": 42, "_type": "a_b_y", "_index": "artist_by_year"}}
+{"type": "그룹", "avg(score)": 452.6896551724138, "gender": "남성", "year": 2019}
+{"index": {"_id": 43, "_type": "a_b_y", "_index": "artist_by_year"}}
+{"type": "그룹", "avg(score)": 437.5, "gender": "혼성", "year": 2019}
+{"index": {"_id": 44, "_type": "a_b_y", "_index": "artist_by_year"}}
+{"type": "그룹", "avg(score)": 424.07142857142856, "gender": "여성", "year": 2019}
+{"index": {"_id": 45, "_type": "a_b_y", "_index": "artist_by_year"}}
+{"type": "솔로", "avg(score)": 365.344262295082, "gender": "남성", "year": 2019}
+{"index": {"_id": 46, "_type": "a_b_y", "_index": "artist_by_year"}}
+{"type": "그룹", "avg(score)": 637.75, "gender": "혼성", "year": 2020}
+{"index": {"_id": 47, "_type": "a_b_y", "_index": "artist_by_year"}}
+{"type": "그룹", "avg(score)": 606.7777777777778, "gender": "남성", "year": 2020}
+{"index": {"_id": 48, "_type": "a_b_y", "_index": "artist_by_year"}}
+{"type": "그룹", "avg(score)": 410.3, "gender": "여성", "year": 2020}
+{"index": {"_id": 49, "_type": "a_b_y", "_index": "artist_by_year"}}
+{"type": "솔로", "avg(score)": 372.15384615384613, "gender": "여성", "year": 2020}
+{"index": {"_id": 50, "_type": "a_b_y", "_index": "artist_by_year"}}
+{"type": "솔로", "avg(score)": 363.07462686567163, "gender": "남성", "year": 2020}

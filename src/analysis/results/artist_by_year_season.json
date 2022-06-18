@@ -1,0 +1,396 @@
+{"index": {"_id": 0, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2020, "gender": "남성", "score": 278.14285714285717, "season": "spring"}
+{"index": {"_id": 1, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2020, "gender": "남성", "score": 195.84375, "season": "spring"}
+{"index": {"_id": 2, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2020, "gender": "혼성", "score": 163.5, "season": "spring"}
+{"index": {"_id": 3, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2020, "gender": "여성", "score": 150.1818181818182, "season": "spring"}
+{"index": {"_id": 4, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2020, "gender": "여성", "score": 143.33333333333334, "season": "spring"}
+{"index": {"_id": 5, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2019, "gender": "남성", "score": 262.5882352941176, "season": "spring"}
+{"index": {"_id": 6, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2019, "gender": "여성", "score": 182.34782608695653, "season": "spring"}
+{"index": {"_id": 7, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2019, "gender": "여성", "score": 166.2, "season": "spring"}
+{"index": {"_id": 8, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2019, "gender": "남성", "score": 161.0, "season": "spring"}
+{"index": {"_id": 9, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2018, "gender": "남성", "score": 228.36363636363637, "season": "spring"}
+{"index": {"_id": 10, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2018, "gender": "여성", "score": 202.0, "season": "spring"}
+{"index": {"_id": 11, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2018, "gender": "여성", "score": 179.66666666666666, "season": "spring"}
+{"index": {"_id": 12, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2018, "gender": "남성", "score": 171.48387096774192, "season": "spring"}
+{"index": {"_id": 13, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2018, "gender": "혼성", "score": 82.0, "season": "spring"}
+{"index": {"_id": 14, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2017, "gender": "여성", "score": 312.5, "season": "spring"}
+{"index": {"_id": 15, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2017, "gender": "혼성", "score": 253.33333333333334, "season": "spring"}
+{"index": {"_id": 16, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2017, "gender": "여성", "score": 183.75, "season": "spring"}
+{"index": {"_id": 17, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2017, "gender": "남성", "score": 158.83333333333334, "season": "spring"}
+{"index": {"_id": 18, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2017, "gender": "남성", "score": 130.28947368421052, "season": "spring"}
+{"index": {"_id": 19, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2016, "gender": "혼성", "score": 261.0, "season": "spring"}
+{"index": {"_id": 20, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2016, "gender": "여성", "score": 191.5, "season": "spring"}
+{"index": {"_id": 21, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2016, "gender": "남성", "score": 168.67567567567568, "season": "spring"}
+{"index": {"_id": 22, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2016, "gender": "여성", "score": 149.11764705882354, "season": "spring"}
+{"index": {"_id": 23, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2016, "gender": "남성", "score": 131.6315789473684, "season": "spring"}
+{"index": {"_id": 24, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2015, "gender": "여성", "score": 161.0, "season": "spring"}
+{"index": {"_id": 25, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2015, "gender": "남성", "score": 133.63636363636363, "season": "spring"}
+{"index": {"_id": 26, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2015, "gender": "남성", "score": 130.45454545454547, "season": "spring"}
+{"index": {"_id": 27, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2015, "gender": "여성", "score": 125.06896551724138, "season": "spring"}
+{"index": {"_id": 28, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2015, "gender": "혼성", "score": 6.0, "season": "spring"}
+{"index": {"_id": 29, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2014, "gender": "혼성", "score": 664.0, "season": "spring"}
+{"index": {"_id": 30, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2014, "gender": "여성", "score": 179.25, "season": "spring"}
+{"index": {"_id": 31, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2014, "gender": "여성", "score": 131.2173913043478, "season": "spring"}
+{"index": {"_id": 32, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2014, "gender": "남성", "score": 112.82051282051282, "season": "spring"}
+{"index": {"_id": 33, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2014, "gender": "남성", "score": 108.92, "season": "spring"}
+{"index": {"_id": 34, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2013, "gender": "혼성", "score": 472.5, "season": "spring"}
+{"index": {"_id": 35, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2013, "gender": "여성", "score": 153.11111111111111, "season": "spring"}
+{"index": {"_id": 36, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2013, "gender": "남성", "score": 143.03333333333333, "season": "spring"}
+{"index": {"_id": 37, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2013, "gender": "남성", "score": 126.75, "season": "spring"}
+{"index": {"_id": 38, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2013, "gender": "여성", "score": 93.53846153846153, "season": "spring"}
+{"index": {"_id": 39, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2012, "gender": "남성", "score": 210.09677419354838, "season": "spring"}
+{"index": {"_id": 40, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2012, "gender": "혼성", "score": 127.0, "season": "spring"}
+{"index": {"_id": 41, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2012, "gender": "여성", "score": 109.95652173913044, "season": "spring"}
+{"index": {"_id": 42, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2012, "gender": "여성", "score": 89.0625, "season": "spring"}
+{"index": {"_id": 43, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2012, "gender": "남성", "score": 76.43243243243244, "season": "spring"}
+{"index": {"_id": 44, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2011, "gender": "남성", "score": 147.48, "season": "spring"}
+{"index": {"_id": 45, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2011, "gender": "혼성", "score": 137.0, "season": "spring"}
+{"index": {"_id": 46, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2011, "gender": "여성", "score": 116.47619047619048, "season": "spring"}
+{"index": {"_id": 47, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2011, "gender": "여성", "score": 113.73333333333333, "season": "spring"}
+{"index": {"_id": 48, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2011, "gender": "남성", "score": 96.5, "season": "spring"}
+{"index": {"_id": 49, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2020, "gender": "혼성", "score": 285.0, "season": "summer"}
+{"index": {"_id": 50, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2020, "gender": "남성", "score": 240.22222222222223, "season": "summer"}
+{"index": {"_id": 51, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2020, "gender": "여성", "score": 224.4, "season": "summer"}
+{"index": {"_id": 52, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2020, "gender": "남성", "score": 167.62857142857143, "season": "summer"}
+{"index": {"_id": 53, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2020, "gender": "여성", "score": 162.47826086956522, "season": "summer"}
+{"index": {"_id": 54, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2019, "gender": "혼성", "score": 230.0, "season": "summer"}
+{"index": {"_id": 55, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2019, "gender": "남성", "score": 175.32258064516128, "season": "summer"}
+{"index": {"_id": 56, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2019, "gender": "여성", "score": 169.9090909090909, "season": "summer"}
+{"index": {"_id": 57, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2019, "gender": "여성", "score": 169.82142857142858, "season": "summer"}
+{"index": {"_id": 58, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2019, "gender": "남성", "score": 158.94444444444446, "season": "summer"}
+{"index": {"_id": 59, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2018, "gender": "여성", "score": 367.5, "season": "summer"}
+{"index": {"_id": 60, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2018, "gender": "남성", "score": 275.0869565217391, "season": "summer"}
+{"index": {"_id": 61, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2018, "gender": "여성", "score": 171.0, "season": "summer"}
+{"index": {"_id": 62, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2018, "gender": "남성", "score": 144.36, "season": "summer"}
+{"index": {"_id": 63, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2017, "gender": "여성", "score": 271.8666666666667, "season": "summer"}
+{"index": {"_id": 64, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2017, "gender": "여성", "score": 261.5, "season": "summer"}
+{"index": {"_id": 65, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2017, "gender": "혼성", "score": 157.0, "season": "summer"}
+{"index": {"_id": 66, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2017, "gender": "남성", "score": 149.71428571428572, "season": "summer"}
+{"index": {"_id": 67, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2017, "gender": "남성", "score": 134.5, "season": "summer"}
+{"index": {"_id": 68, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2016, "gender": "혼성", "score": 264.0, "season": "summer"}
+{"index": {"_id": 69, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2016, "gender": "여성", "score": 197.73333333333332, "season": "summer"}
+{"index": {"_id": 70, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2016, "gender": "남성", "score": 170.53488372093022, "season": "summer"}
+{"index": {"_id": 71, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2016, "gender": "남성", "score": 169.83333333333334, "season": "summer"}
+{"index": {"_id": 72, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2016, "gender": "여성", "score": 125.22222222222223, "season": "summer"}
+{"index": {"_id": 73, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2015, "gender": "여성", "score": 164.4375, "season": "summer"}
+{"index": {"_id": 74, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2015, "gender": "남성", "score": 158.8125, "season": "summer"}
+{"index": {"_id": 75, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2015, "gender": "남성", "score": 144.1578947368421, "season": "summer"}
+{"index": {"_id": 76, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2015, "gender": "혼성", "score": 104.0, "season": "summer"}
+{"index": {"_id": 77, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2015, "gender": "여성", "score": 94.66666666666667, "season": "summer"}
+{"index": {"_id": 78, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2014, "gender": "혼성", "score": 365.0, "season": "summer"}
+{"index": {"_id": 79, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2014, "gender": "남성", "score": 151.6, "season": "summer"}
+{"index": {"_id": 80, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2014, "gender": "남성", "score": 143.23684210526315, "season": "summer"}
+{"index": {"_id": 81, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2014, "gender": "여성", "score": 142.38095238095238, "season": "summer"}
+{"index": {"_id": 82, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2014, "gender": "여성", "score": 132.0, "season": "summer"}
+{"index": {"_id": 83, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "여성", "year": 2014, "gender": "솔로", "score": 54.0, "season": "summer"}
+{"index": {"_id": 84, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2013, "gender": "여성", "score": 191.45833333333334, "season": "summer"}
+{"index": {"_id": 85, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2013, "gender": "남성", "score": 141.64285714285714, "season": "summer"}
+{"index": {"_id": 86, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2013, "gender": "남성", "score": 121.375, "season": "summer"}
+{"index": {"_id": 87, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2013, "gender": "혼성", "score": 117.5, "season": "summer"}
+{"index": {"_id": 88, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2013, "gender": "여성", "score": 99.68181818181819, "season": "summer"}
+{"index": {"_id": 89, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2012, "gender": "남성", "score": 183.68571428571428, "season": "summer"}
+{"index": {"_id": 90, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2012, "gender": "혼성", "score": 164.5, "season": "summer"}
+{"index": {"_id": 91, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2012, "gender": "여성", "score": 144.86363636363637, "season": "summer"}
+{"index": {"_id": 92, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2012, "gender": "남성", "score": 119.79166666666667, "season": "summer"}
+{"index": {"_id": 93, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2012, "gender": "여성", "score": 101.30434782608695, "season": "summer"}
+{"index": {"_id": 94, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2011, "gender": "남성", "score": 170.30769230769232, "season": "summer"}
+{"index": {"_id": 95, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2011, "gender": "여성", "score": 142.33333333333334, "season": "summer"}
+{"index": {"_id": 96, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2011, "gender": "여성", "score": 105.42857142857143, "season": "summer"}
+{"index": {"_id": 97, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2011, "gender": "혼성", "score": 103.0, "season": "summer"}
+{"index": {"_id": 98, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2011, "gender": "남성", "score": 93.75757575757575, "season": "summer"}
+{"index": {"_id": 99, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2020, "gender": "남성", "score": 255.44444444444446, "season": "fall"}
+{"index": {"_id": 100, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2020, "gender": "여성", "score": 221.33333333333334, "season": "fall"}
+{"index": {"_id": 101, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2020, "gender": "혼성", "score": 196.75, "season": "fall"}
+{"index": {"_id": 102, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2020, "gender": "남성", "score": 159.72972972972974, "season": "fall"}
+{"index": {"_id": 103, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2020, "gender": "여성", "score": 152.08695652173913, "season": "fall"}
+{"index": {"_id": 104, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2019, "gender": "혼성", "score": 277.0, "season": "fall"}
+{"index": {"_id": 105, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2019, "gender": "여성", "score": 249.45454545454547, "season": "fall"}
+{"index": {"_id": 106, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2019, "gender": "남성", "score": 170.75675675675674, "season": "fall"}
+{"index": {"_id": 107, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2019, "gender": "남성", "score": 146.5, "season": "fall"}
+{"index": {"_id": 108, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2019, "gender": "여성", "score": 114.66666666666667, "season": "fall"}
+{"index": {"_id": 109, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2018, "gender": "남성", "score": 275.1666666666667, "season": "fall"}
+{"index": {"_id": 110, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2018, "gender": "여성", "score": 175.42857142857142, "season": "fall"}
+{"index": {"_id": 111, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2018, "gender": "여성", "score": 155.5, "season": "fall"}
+{"index": {"_id": 112, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2018, "gender": "남성", "score": 154.60526315789474, "season": "fall"}
+{"index": {"_id": 113, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2017, "gender": "여성", "score": 322.0, "season": "fall"}
+{"index": {"_id": 114, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2017, "gender": "남성", "score": 253.0, "season": "fall"}
+{"index": {"_id": 115, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2017, "gender": "여성", "score": 130.4, "season": "fall"}
+{"index": {"_id": 116, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2017, "gender": "남성", "score": 121.45454545454545, "season": "fall"}
+{"index": {"_id": 117, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2017, "gender": "혼성", "score": 100.5, "season": "fall"}
+{"index": {"_id": 118, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2016, "gender": "혼성", "score": 519.0, "season": "fall"}
+{"index": {"_id": 119, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2016, "gender": "여성", "score": 254.0, "season": "fall"}
+{"index": {"_id": 120, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2016, "gender": "남성", "score": 174.0, "season": "fall"}
+{"index": {"_id": 121, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2016, "gender": "남성", "score": 150.21428571428572, "season": "fall"}
+{"index": {"_id": 122, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2016, "gender": "여성", "score": 133.2, "season": "fall"}
+{"index": {"_id": 123, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2015, "gender": "혼성", "score": 364.0, "season": "fall"}
+{"index": {"_id": 124, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2015, "gender": "남성", "score": 172.0, "season": "fall"}
+{"index": {"_id": 125, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2015, "gender": "여성", "score": 145.6, "season": "fall"}
+{"index": {"_id": 126, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2015, "gender": "남성", "score": 133.82926829268294, "season": "fall"}
+{"index": {"_id": 127, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2015, "gender": "여성", "score": 128.05882352941177, "season": "fall"}
+{"index": {"_id": 128, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2014, "gender": "남성", "score": 155.5909090909091, "season": "fall"}
+{"index": {"_id": 129, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2014, "gender": "남성", "score": 151.72727272727272, "season": "fall"}
+{"index": {"_id": 130, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2014, "gender": "여성", "score": 131.9, "season": "fall"}
+{"index": {"_id": 131, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2014, "gender": "여성", "score": 126.1875, "season": "fall"}
+{"index": {"_id": 132, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2014, "gender": "혼성", "score": 83.0, "season": "fall"}
+{"index": {"_id": 133, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2013, "gender": "여성", "score": 156.52631578947367, "season": "fall"}
+{"index": {"_id": 134, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2013, "gender": "남성", "score": 152.64705882352942, "season": "fall"}
+{"index": {"_id": 135, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2013, "gender": "남성", "score": 137.19354838709677, "season": "fall"}
+{"index": {"_id": 136, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2013, "gender": "여성", "score": 115.84210526315789, "season": "fall"}
+{"index": {"_id": 137, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2013, "gender": "혼성", "score": 72.75, "season": "fall"}
+{"index": {"_id": 138, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2012, "gender": "남성", "score": 195.36111111111111, "season": "fall"}
+{"index": {"_id": 139, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2012, "gender": "혼성", "score": 143.66666666666666, "season": "fall"}
+{"index": {"_id": 140, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2012, "gender": "남성", "score": 110.16, "season": "fall"}
+{"index": {"_id": 141, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2012, "gender": "여성", "score": 107.72, "season": "fall"}
+{"index": {"_id": 142, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2012, "gender": "여성", "score": 91.08695652173913, "season": "fall"}
+{"index": {"_id": 143, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2011, "gender": "여성", "score": 180.0, "season": "fall"}
+{"index": {"_id": 144, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2011, "gender": "남성", "score": 168.46875, "season": "fall"}
+{"index": {"_id": 145, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2011, "gender": "혼성", "score": 131.5, "season": "fall"}
+{"index": {"_id": 146, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2011, "gender": "남성", "score": 95.52941176470588, "season": "fall"}
+{"index": {"_id": 147, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2011, "gender": "여성", "score": 63.791666666666664, "season": "fall"}
+{"index": {"_id": 148, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2020, "gender": "남성", "score": 256.7, "season": "winter"}
+{"index": {"_id": 149, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2020, "gender": "혼성", "score": 148.5, "season": "winter"}
+{"index": {"_id": 150, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2020, "gender": "여성", "score": 147.20689655172413, "season": "winter"}
+{"index": {"_id": 151, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2020, "gender": "남성", "score": 125.64, "season": "winter"}
+{"index": {"_id": 152, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2020, "gender": "여성", "score": 110.26666666666667, "season": "winter"}
+{"index": {"_id": 153, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2019, "gender": "남성", "score": 237.94117647058823, "season": "winter"}
+{"index": {"_id": 154, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2019, "gender": "여성", "score": 155.04, "season": "winter"}
+{"index": {"_id": 155, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2019, "gender": "남성", "score": 132.62790697674419, "season": "winter"}
+{"index": {"_id": 156, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2019, "gender": "여성", "score": 124.9090909090909, "season": "winter"}
+{"index": {"_id": 157, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2019, "gender": "혼성", "score": 91.0, "season": "winter"}
+{"index": {"_id": 158, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2018, "gender": "남성", "score": 230.5909090909091, "season": "winter"}
+{"index": {"_id": 159, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2018, "gender": "여성", "score": 198.77777777777777, "season": "winter"}
+{"index": {"_id": 160, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2018, "gender": "여성", "score": 177.0, "season": "winter"}
+{"index": {"_id": 161, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2018, "gender": "혼성", "score": 168.0, "season": "winter"}
+{"index": {"_id": 162, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2018, "gender": "남성", "score": 117.525, "season": "winter"}
+{"index": {"_id": 163, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2017, "gender": "혼성", "score": 266.6666666666667, "season": "winter"}
+{"index": {"_id": 164, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2017, "gender": "여성", "score": 193.5, "season": "winter"}
+{"index": {"_id": 165, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2017, "gender": "여성", "score": 170.0909090909091, "season": "winter"}
+{"index": {"_id": 166, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2017, "gender": "남성", "score": 141.73076923076923, "season": "winter"}
+{"index": {"_id": 167, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2017, "gender": "남성", "score": 120.2439024390244, "season": "winter"}
+{"index": {"_id": 168, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2016, "gender": "남성", "score": 161.5909090909091, "season": "winter"}
+{"index": {"_id": 169, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2016, "gender": "여성", "score": 141.76470588235293, "season": "winter"}
+{"index": {"_id": 170, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2016, "gender": "남성", "score": 114.1923076923077, "season": "winter"}
+{"index": {"_id": 171, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2016, "gender": "여성", "score": 106.07692307692308, "season": "winter"}
+{"index": {"_id": 172, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2016, "gender": "혼성", "score": 73.0, "season": "winter"}
+{"index": {"_id": 173, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2015, "gender": "여성", "score": 132.7058823529412, "season": "winter"}
+{"index": {"_id": 174, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2015, "gender": "남성", "score": 120.51851851851852, "season": "winter"}
+{"index": {"_id": 175, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2015, "gender": "남성", "score": 118.48, "season": "winter"}
+{"index": {"_id": 176, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2015, "gender": "여성", "score": 96.28, "season": "winter"}
+{"index": {"_id": 177, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2015, "gender": "혼성", "score": 19.0, "season": "winter"}
+{"index": {"_id": 178, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2014, "gender": "남성", "score": 119.72413793103448, "season": "winter"}
+{"index": {"_id": 179, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2014, "gender": "남성", "score": 119.21153846153847, "season": "winter"}
+{"index": {"_id": 180, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2014, "gender": "여성", "score": 106.20833333333333, "season": "winter"}
+{"index": {"_id": 181, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2014, "gender": "여성", "score": 91.27272727272727, "season": "winter"}
+{"index": {"_id": 182, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2014, "gender": "혼성", "score": 71.5, "season": "winter"}
+{"index": {"_id": 183, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2013, "gender": "혼성", "score": 166.0, "season": "winter"}
+{"index": {"_id": 184, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2013, "gender": "남성", "score": 117.41176470588235, "season": "winter"}
+{"index": {"_id": 185, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2013, "gender": "여성", "score": 104.82758620689656, "season": "winter"}
+{"index": {"_id": 186, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2013, "gender": "여성", "score": 97.88888888888889, "season": "winter"}
+{"index": {"_id": 187, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2013, "gender": "남성", "score": 97.03030303030303, "season": "winter"}
+{"index": {"_id": 188, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2012, "gender": "여성", "score": 125.6086956521739, "season": "winter"}
+{"index": {"_id": 189, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2012, "gender": "여성", "score": 107.21428571428571, "season": "winter"}
+{"index": {"_id": 190, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2012, "gender": "남성", "score": 105.27272727272727, "season": "winter"}
+{"index": {"_id": 191, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2012, "gender": "혼성", "score": 101.0, "season": "winter"}
+{"index": {"_id": 192, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2012, "gender": "남성", "score": 87.28070175438596, "season": "winter"}
+{"index": {"_id": 193, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2011, "gender": "남성", "score": 117.72727272727273, "season": "winter"}
+{"index": {"_id": 194, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2011, "gender": "여성", "score": 98.0, "season": "winter"}
+{"index": {"_id": 195, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2011, "gender": "여성", "score": 95.35714285714286, "season": "winter"}
+{"index": {"_id": 196, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "솔로", "year": 2011, "gender": "남성", "score": 70.47058823529412, "season": "winter"}
+{"index": {"_id": 197, "_type": "a_b_y_s", "_index": "artist_by_year_season"}}
+{"type": "그룹", "year": 2011, "gender": "혼성", "score": 54.0, "season": "winter"}
