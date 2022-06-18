@@ -1,4 +1,5 @@
 # Analysis of Chart using Music Data
+- 최신기술 프로젝트 3조 팀 프로젝트입니다.
 
 ## Project
 음원 데이터를 활용한 차트 분석
